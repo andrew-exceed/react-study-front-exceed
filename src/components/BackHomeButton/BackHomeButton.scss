@@ -1,0 +1,19 @@
+.backhome{
+    position: sticky;
+    top: 120px;
+    z-index: 123;
+
+    a{
+        position: relative;
+        left: -90px;
+    }
+
+    @media screen and (max-width:1330px) {
+        position: relative;
+        top: 0;
+        
+        a{
+            left: 0px;
+        }
+    }
+}

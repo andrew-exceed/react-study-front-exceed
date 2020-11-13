@@ -1,0 +1,22 @@
+@import './constants.scss';
+
+.content{
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 40px 0;
+}
+#root{
+  background-color: $main-content;
+}
+
+.noOverFlow{
+  width: 100% !important;
+  overflow: hidden;
+}
+
+.height100{
+  height: 100%;
+}
+

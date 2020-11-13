@@ -1,0 +1,10 @@
+@import '../../styles/constants.scss';
+
+footer.footer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 48px 3px;
+    background-color: $white;
+    box-sizing: border-box;
+}
