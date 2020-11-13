@@ -1,11 +1,11 @@
 import React from "react";
 
-import Exam from '../components/Exam/Exam'
+import ExamList from '../components/ExamList/ExamList'
 
 const ExamPage = () => {
 
     return (
-        <Exam />
+        <ExamList />
     );
 }
 

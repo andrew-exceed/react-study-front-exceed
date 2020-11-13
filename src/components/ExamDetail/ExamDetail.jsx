@@ -25,7 +25,7 @@ const ExamDetail = ({slug}) => {
                 <Grid item xs={12} justify='end'>
                     <FormControl component="fieldset">
                             <FormControlLabel
-                                label="Exam"
+                                label={isStudy ? 'Learn' : 'Exam'}
                                 control={
                                     <Switch
                                         color="primary"

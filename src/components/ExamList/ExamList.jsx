@@ -2,17 +2,17 @@ import { Link } from "react-router-dom";
 import React from "react";
 import BackHomeButton from "../BackHomeButton/BackHomeButton";
 
-import "./Exam.scss"
+import "./ExamList.scss"
 
-const Exam = () => {
+const ExamList = () => {
 
     return (
         <>
             <BackHomeButton />
             списки экзов
-            <Link to='/examDetail/QWE'>toDetail</Link>
+            <Link to='/examDetail/Java-Script'>toDetail</Link>
         </>
     );
 }
 
-export default Exam;
+export default ExamList;

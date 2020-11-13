@@ -45,7 +45,7 @@ const Topic = ({id}) => {
                                                         <Typography gutterBottom variant="h5" component="h2">{info.name}</Typography>
                                                         {info.links.map((link, index) => 
                                                             <div className='card-link' key={index}>
-                                                                <Link target="_blank" rel="noopener" component='a'  href={link}>{link}</Link>
+                                                                <a target="_blank" rel="noopener" component='a' href={link}>{link}</a>
                                                             </div>
                                                         )}
                                                 </CardContent>
