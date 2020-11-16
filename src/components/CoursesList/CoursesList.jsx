@@ -22,8 +22,9 @@ const CoursesList = () => {
         let { id, title, discription, imgUrl, type, index } = data;
         return(
             <Grid key={id} item xs={12} sm={6} md={4} >
-                <Card variant="outlined" >
+                <Card variant="outlined" className='height100'>
                     <CardActionArea 
+                        className='height100'
                         component={Link} 
                         to={
                             type === 'forReading' ? `/topic/${index}` :

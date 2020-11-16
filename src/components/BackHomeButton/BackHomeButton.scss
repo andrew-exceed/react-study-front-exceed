@@ -2,6 +2,8 @@
     position: sticky;
     top: 120px;
     z-index: 123;
+    height: 0;
+
 
     a{
         position: relative;
@@ -11,6 +13,7 @@
     @media screen and (max-width:1330px) {
         position: relative;
         top: 0;
+        height: auto;
         
         a{
             left: 0px;

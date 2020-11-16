@@ -4,14 +4,14 @@ import { Button } from '@material-ui/core';
 
 import "./BackHomeButton.scss"
 
-const BackHomeButton = () => {
+const BackHomeButton = ({url}) => {
 
     return (
         <div className='backhome'>
             <Button
                 component={Link}
                 size='large'
-                to='/'
+                to={url ? url : '/'}
                 variant="contained"
                 color="primary"
             >
