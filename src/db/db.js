@@ -1,5 +1,14 @@
 export const data = [ 
     {
+        id: "hash12",
+        index: 12,
+        title: "Обучение",
+        discription: "Be Hackerman",
+        imgUrl: "/images/final.jpg",
+        type: 'finalExam',
+        data: 'qwe'
+    },
+    {
         id: "hash1",
         index: 1,
         title: "Введение",
@@ -913,15 +922,7 @@ export const data = [
         imgUrl: "/images/11.jpg",
         type: 'forExam',
     },
-    {
-        id: "hash12",
-        index: 12,
-        title: "Финальное задание",
-        discription: "Be Hackerman",
-        imgUrl: "/images/final.jpg",
-        type: 'finalExam',
-        data: 'qwe'
-    },
+    
 ]
 
 export default data

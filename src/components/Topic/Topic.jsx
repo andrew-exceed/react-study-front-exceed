@@ -24,11 +24,11 @@ const Topic = ({id}) => {
             state && state.type === 'forExam' && history.push("/exam");
             state && state.type === 'finalExam' && history.push("/finish");
         } else {
-            setState(data[id-1]);
+            setState(data.find(element => +element.index === +id));
             setCount(count+1);
         }
     }, [count, state, id, history])
-    
+
     return (
         <Container>
             <BackHomeButton />
