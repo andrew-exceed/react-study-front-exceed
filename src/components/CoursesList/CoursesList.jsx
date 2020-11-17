@@ -18,7 +18,7 @@ const CoursesList = () => {
         setState(data);
     })
 
-    const list = state && state.map((data, i) => {
+    const list = state && state.map((data, i) => {if(data.type !== 'forExam'){
         let { id, title, discription, imgUrl, type, index } = data;
         return(
             <Grid key={id} item xs={12} sm={6} md={4} >
@@ -51,7 +51,7 @@ const CoursesList = () => {
                 </Card>
             </Grid>
         )
-    });
+    }});
 
     return (
         <Container>
