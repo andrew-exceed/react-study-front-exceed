@@ -32,6 +32,586 @@ export const data = [
                     },
                 ]
             },
+            {
+                ask: 'Explain arrays in JavaScript',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
+            {
+                ask: '',
+                answers:[
+                    {
+                        text:``,
+                        image: '',
+                        link: ''
+                    },
+                ]
+            },
         ]
     },
     {
@@ -55,7 +635,7 @@ export const data = [
         ]
     },
     {
-        name: 'Vue,js',
+        name: 'Vue.js',
         items:[
             {
                 ask: 'What is Coercion in JavaScript?',
@@ -76,6 +656,156 @@ export const data = [
     },
     {
         name: 'Bootstrap',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'CSS',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'HTML5',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'Sass',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'Webpack',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'MongoDB',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'SQL',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'GraphQL',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'TypeScript',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'AWS',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'Azure',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'GIT',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'Code Problems',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'Data Structures',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'Design Patterns',
+        items:[
+            {
+                ask: 'What is Coercion in JavaScript?',
+                answer: `answer`,
+                image: '/images/plugImg.jpg',
+            },
+        ]
+    },
+    {
+        name: 'Agile',
         items:[
             {
                 ask: 'What is Coercion in JavaScript?',

@@ -55,10 +55,10 @@ const ExamDetail = ({slug}) => {
             {isStudy ?
                 <Grid container spacing={3}>
                     <Grid item xs={12} className='ask-block'>
-                        {state && state.items.map((item, index) => (
-                            <React.Fragment key={item.ask}>
+                        {state && state.items && state.items.map((item, index) => (
+                            <div className='ask-block' key={item.ask}>
                                 <Typography variant='h5'>{item.ask}</Typography>
-                                {item && item.answers.map(answ => (
+                                {item && item.answers && item.answers.map(answ => (
                                     <>
                                         <Typography variant='body2'>{answ.text}</Typography>
                                         <div className='answer-image'>
@@ -67,14 +67,14 @@ const ExamDetail = ({slug}) => {
                                         <a href={answ.link}>{answ.link}</a>
                                     </>
                                 ))}
-                            </React.Fragment>
+                            </div>
                         ))}
                     </Grid>
                 </Grid> 
                 :
                 <Grid container spacing={3}>
                     <Grid item xs={12}>
-                    {state && state.items.map((item, index) => (<div key={item.ask}>{index+1}){item.ask}</div>))}
+                    {state && state.items && state.items.map((item, index) => (<div className='ask' key={item.ask}>{index+1}){item.ask}</div>))}
                     </Grid>
                 </Grid>
             }

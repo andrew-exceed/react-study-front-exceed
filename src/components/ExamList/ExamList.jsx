@@ -26,7 +26,7 @@ const ExamList = () => {
     },[])
 
     return (
-        <Container disableGutters={useMediaQuery('(min-width:500px)') ? false : true}>  
+        <Container disableGutters={!useMediaQuery('(min-width:500px)')}>  
             <BackHomeButton />
 
             <Grid container spacing={3}>

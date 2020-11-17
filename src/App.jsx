@@ -5,6 +5,7 @@ import 'fontsource-roboto';
 
 import Footer from './components/Footer/Footer'
 import NavBar from './components/NavBar/NavBar'
+import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 
 import MainPage from './views/MainPage'
 import TopicPage from './views/TopicPage'
@@ -13,11 +14,13 @@ import ExamPage from './views/ExamPage'
 import FinalExamPage from './views/FinalExamPage'
 import ExamDetailPage from './views/ExamDetailPage'
 
-function App() {
+const App = () => {
 
-  
   return (
     <Router >
+
+      <ScrollToTop />
+
       <NavBar />
       <div className='content'>
           <Switch>

@@ -26,8 +26,6 @@ const FinalExam = () => {
         setState(data);
     },[])
 
-    console.log(state);
-
     return (
         <Container disableGutters={useMediaQuery('(min-width:500px)') ? false : true}>  
             <BackHomeButton />
@@ -61,7 +59,7 @@ const FinalExam = () => {
                                     <TableCell component="th" scope="row">{row.name}</TableCell>
                                     <TableCell >{row.description}</TableCell>
                                     <TableCell >
-                                        {row.links.map((link) => <><a target="_blanck" href={link.url}>{link.name}</a>&#8195;</>)}
+                                        {row.links.map((link) => <React.Fragment key={link.url}><a target="_blanck" href={link.url}>{link.name}</a>&#8195;</React.Fragment>)}
                                     </TableCell>
                                 </TableRow>
                             ))}

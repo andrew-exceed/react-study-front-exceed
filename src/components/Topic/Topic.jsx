@@ -37,15 +37,15 @@ const Topic = ({id}) => {
                     {state && state.data && state.data.map((item, i) =>
                         <React.Fragment key={i}>
                             <Grid key={i} item xs={12}><Typography variant='h5' color='textSecondary'>{item.title}</Typography></Grid>
-                                {item.info.map((info, id) => 
+                                {item && item.info && item.info.map((info, id) => 
                                     <React.Fragment key={id}>
                                         <Grid key={i} item xs={12} sm={6} md={3} >
                                             <Card variant="outlined" className='height100' >
                                                 <CardContent className='height100'>
                                                         <Typography gutterBottom variant="h5" component="h2">{info.name}</Typography>
-                                                        {info.links.map((link, index) => 
+                                                        {info && info.links && info.links.map((link, index) => 
                                                             <div className='card-link' key={index}>
-                                                                <a target="_blank" rel="noopener" component='a' href={link}>{link}</a>
+                                                                <a target="_blank" rel="noreferrer" component='a' href={link.url}>{link.name}</a>
                                                             </div>
                                                         )}
                                                 </CardContent>

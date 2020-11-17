@@ -34,10 +34,10 @@ const CoursesList = () => {
                     >
                         <CardMedia
                             component="img"
-                            alt='qwe'
+                            alt='exceed'
                             height="220"
                             image={imgUrl}
-                            title="qwe"
+                            title="exceed"
                         />
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="h2">
