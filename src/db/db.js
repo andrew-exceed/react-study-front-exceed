@@ -163,7 +163,7 @@ export const data = [
         id: "hash2",
         index: 2,
         title: "Основы JS",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/2.jpg",
         type: 'forReading',
         data:[
@@ -479,7 +479,7 @@ export const data = [
         id: "hash3",
         index: 3,
         title: "DOM",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/3.jpg",
         type: 'forReading',
         data:[
@@ -572,7 +572,7 @@ export const data = [
         id: "hash4",
         index: 4,
         title: "AJAX",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/4.jpg",
         type: 'forReading',
         data:[
@@ -622,7 +622,7 @@ export const data = [
         id: "hash5",
         index: 5,
         title: "Практика на чистом JS",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/5.jpg",
         type: 'forReading',
         data:[
@@ -696,7 +696,7 @@ export const data = [
         id: "hash6",
         index: 6,
         title: "Promises",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/6.jpg",
         type: 'forReading',
         data:[
@@ -759,7 +759,7 @@ export const data = [
         id: "hash7",
         index: 7,
         title: "HTML + CSS базовый",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/7.jpg",
         type: 'forReading',
         data:[
@@ -784,7 +784,7 @@ export const data = [
         id: "hash8",
         index: 8,
         title: "React JS",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/8.jpg",
         type: 'forReading',
         data:[
@@ -826,7 +826,7 @@ export const data = [
         id: "hash9",
         index: 9,
         title: "Node JS",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/9.jpg",
         type: 'forReading',
         data:[
@@ -886,7 +886,7 @@ export const data = [
         id: "hash10",
         index: 10,
         title: "Менеджер пакетов",
-        discription: "Это введение самурай, удачи",
+        discription: "Доп. материлаы",
         imgUrl: "/images/10.jpg",
         type: 'forReading',
         data:[
